@@ -1,0 +1,2 @@
+# automatic
+docker nginx
